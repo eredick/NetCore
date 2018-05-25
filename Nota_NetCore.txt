@@ -1,0 +1,4 @@
+Install-Package Microsoft.AspNetCore.Authentication.JwtBearer
+Install-Package Microsoft.AspNetCore.Identity
+Install-Package System.IdentityModel.Tokens.Jwt
+Install-Package microsoft.AspNetCore.Cors
